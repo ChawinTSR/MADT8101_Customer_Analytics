@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Terminal21Pattaya.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a3c67f36493261ee074cf4aee2e17181a0f3810f/01_Customer%20Single%20View/Design%20Customer%20Data%20Platform/Figures/Customer%20data%20platform_Pet%20Shop.jpg)
