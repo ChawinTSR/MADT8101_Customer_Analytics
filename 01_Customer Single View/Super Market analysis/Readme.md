@@ -1,1 +1,6 @@
-![Alt Text]()
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_1.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_2.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_3.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_4.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_5.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/45958e780d3a8fa32c5e10e05392a5c9a7436eff/01_Customer%20Single%20View/Super%20Market%20analysis/Figures/StorX%20Shopping_Page_6.jpg)
