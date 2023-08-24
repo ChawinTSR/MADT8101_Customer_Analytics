@@ -1,1 +1,2 @@
-![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a3c67f36493261ee074cf4aee2e17181a0f3810f/01_Customer%20Single%20View/Design%20Customer%20Data%20Platform/Figures/Customer%20data%20platform_Pet%20Shop.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/730cf8dc9a2fd5ab7d5b9407a0da307fcd4dbb11/01_Customer%20Single%20View/Design%20Customer%20Data%20Platform/Figures/Customer%20data%20platform_Pet%20Shop_Page_1.jpg)
+![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/730cf8dc9a2fd5ab7d5b9407a0da307fcd4dbb11/01_Customer%20Single%20View/Design%20Customer%20Data%20Platform/Figures/Customer%20data%20platform_Pet%20Shop_Page_2.jpg)
