@@ -20,7 +20,7 @@ The number of groups is randomly chosen from a range of high values, and the app
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_004.png)
 The second topic describes activities in the mall – There are many places creating for taking a photo, lots of restaurants for having a meal of which the price is not expensive, and a variety of products for shopping.
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_005.png)
-The third topic describes atmosphere in the mall – This department store composes of brand name shops, restaurants decorated with foreign scenes and locations. So do restrooms. Besides, there are lots of parking lots.
+The third topic describes atmosphere in the mall – This department store composes of brand name shops, restaurants decorated with foreign scenes. So do restrooms. Besides, there are lots of parking lots.
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_006.png)
 
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_007.png)
