@@ -4,8 +4,10 @@ xxx
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Terminal21Pattaya.jpg)
 Ref. https://th.tripadvisor.com/Attraction_Review-g293919-d15266527-Reviews-Terminal_21_Pattaya-Pattaya_Chonburi_Province.html
 
-Importing required libraries, enabling interactive visualizations, suppressing deprecation warnings, reads a CSV file from a specified URL and checking dataset loaded from CSV file.
+Importing required libraries, enabling interactive visualizations, suppressing deprecation warnings, reads a CSV file from a specified URL, and checking dataset loaded from CSV file.
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_001.png)
+
+Generating a list of Thai stopwords, creating a list of words removed from text data, combining the stopwords and removed words into a single list, then tokenizing a sentence and returning words separated by commas in a new 'Review_tokenized' column.
 
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_002.png)
 
