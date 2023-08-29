@@ -16,7 +16,7 @@ Take a list of tokenized documents, split each document into individual words, a
 Then, configure parameters for LDA topic modeling, create an index-to-word dictionary, and run the LDA modeling algorithm on the given corpus with the specified settings to generate a topic model.
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_003.png)
 
-The number of groups is randomly chosen from a range of high values, and the appropriate number of groups is 3.
+The number of groups is randomly chosen from a range of high values, and the appropriate number of groups is 3. The first topic describes things within the mall – this place is a modern and spacious department store comprising numerous shops and restaurants.
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_004.png)
 
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/d56b3f6ae22901ee0c5fc23cfda7889eab728130/05_Voice%20of%20Customer%20Analytics/Figures/Screenshot_005.png)
