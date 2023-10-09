@@ -2,8 +2,8 @@
 ![Alt Text](https://github.com/ChawinTSR/MADT8101_Customer_Analytics/blob/a4248ca4f24e90eb295b6f38fa993cdee7e55a22/05_Voice%20of%20Customer%20Analytics/Figures/Terminal21Pattaya.jpg)
 Ref. https://th.tripadvisor.com/Attraction_Review-g293919-d15266527-Reviews-Terminal_21_Pattaya-Pattaya_Chonburi_Province.html
 
-# Abstract
-xxx
+# Details
+This work uses Latent Dirichlet Allocation (LDA) algorithm to analyze data collected from comments of Terminal21 in Pattaya to know customers' opinions towards this department store.
 
 # Python code and results
 Import required libraries, enable interactive visualizations, suppress deprecation warnings, read a CSV file from a specified URL, and check dataset loaded from CSV file.
