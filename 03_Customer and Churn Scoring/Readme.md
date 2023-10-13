@@ -1,3 +1,4 @@
+# Chrun Prediction
 This work makes comparison of 4 models: Logistic Regression (LR), Random Forest (RF), K-Nearest Neighbors (KNN) and XGBoost. However, there is a problem of imbalance of data, so we will implement SMOTE (Synthetic Minority Over-sampling Technique), Over sampling and under sampling to all models. The objective of this test is to find the best model technique by considering with f1 score (Presision and recall), and Area Under the ROC Curve (AUC).
 
 Dataset:
